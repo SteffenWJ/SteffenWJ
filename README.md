@@ -1,6 +1,6 @@
 Hello, my name is Steffen. I am a Bachelor of Engineering in Robotics Technology, and this is a portfolio of some of my work.
 
-At the moment, there is only a tiny Controller/Worker program for a RaspberryPi.
+At the moment, there is only a tiny Controller/Worker program for a RaspberryPi and a HQ-Cam
 
 The schedule for uploads to this place is:
 Friday the 11-02-2022: Classification network for Cifar 10 and Segmentation based on UNET should be uploaded
