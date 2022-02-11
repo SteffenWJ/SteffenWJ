@@ -3,7 +3,7 @@ Hello, my name is Steffen. I am a Bachelor of Engineering in Robotics Technology
 At the moment, there is only a tiny Controller/Worker program for a RaspberryPi and a HQ-Cam
 
 The schedule for uploads to this place is:
-Friday the 11-02-2022: Classification network for Cifar 10 and Segmentation based on UNET should be uploaded
+Not added as planned, no time to update it for proper deployment and training - :Classification network for Cifar 10 and Segmentation based on UNET should be uploaded
 Monday the 14-02-2022: How many moves chess board algorithms
 That is all for now.
 
