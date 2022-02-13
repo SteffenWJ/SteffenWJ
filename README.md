@@ -3,6 +3,7 @@ Hello, my name is Steffen. I am a Bachelor of Engineering in Robotics Technology
 At the moment, there is only a tiny Controller/Worker program for a RaspberryPi and a HQ-Cam
 
 The schedule for uploads to this place is:
+
 [X] - 14-02-2022: How many jumps will it take for a KNIGHT to move from a start position to a end position.
 Done was added the 13-02-2020.
 
