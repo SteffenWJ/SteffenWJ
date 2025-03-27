@@ -1,1 +1,2 @@
-Hello, welcome to my GitHub page - it is a mess and will be cleaned before the end of March
+Hello, welcome to my GitHub page. It is a mess, but it will be cleaned after the end of March when I am finally back.
+Also, any time frame is subject to change...
